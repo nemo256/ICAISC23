@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Database file #1: main.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Too many commas in name 1 of "X. Zheng, Y. Wang, G. Wang, J. Liu" for entry Zheng2018
+while executing---line 2403 of file IEEEtran.bst
+Warning--empty journal in tran2019blood
+
+Done.
+You've used 14 entries,
+            4087 wiz_defined-function locations,
+            913 strings with 9927 characters,
+and the built_in function-call counts, 10105 in all, are:
+= -- 848
+> -- 214
+< -- 89
++ -- 118
+- -- 35
+* -- 495
+:= -- 1575
+add.period$ -- 28
+call.type$ -- 14
+change.case$ -- 14
+chr.to.int$ -- 189
+cite$ -- 15
+duplicate$ -- 739
+empty$ -- 772
+format.name$ -- 46
+if$ -- 2327
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 121
+newline$ -- 65
+num.names$ -- 14
+pop$ -- 253
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 788
+stack$ -- 0
+substring$ -- 459
+swap$ -- 603
+text.length$ -- 26
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 14
+warning$ -- 1
+while$ -- 46
+width$ -- 16
+write$ -- 159
+(There was 1 error message)

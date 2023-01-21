@@ -1,0 +1,7 @@
+- [x] add a new abstract
+- [x] re-copy from the old version
+- [x] port everything from IDDM paper submission
+- [x] fix bibliography from IDDM
+- [ ] check for everything before submission
+- [ ] fix tables and figures
+- [ ] update result figures
