@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.25)  21 JAN 2023 14:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.25)  21 JAN 2023 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -435,39 +435,152 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 34.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 52.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-! Missing } inserted.
-<inserted text> 
-                }
-l.34 \maketitle
-               
-? 
-! Emergency stop.
-<inserted text> 
-                }
-l.34 \maketitle
-               
-End of file on the terminal!
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
- 
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Underfull \hbox (badness 1454) in paragraph at lines 92--93
+[]\OT1/ptm/m/n/10 Shahzad et al. [11] pro-posed a cus-tom con-vo-lu-tional
+ []
+
+(/root/Work/ICAISC23/src/../tables/result_comparing_table.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+<../images/DO-UNET.png, id=11, 1224.07312pt x 350.81062pt>
+File: ../images/DO-UNET.png Graphic file (type png)
+<use ../images/DO-UNET.png>
+Package pdftex.def Info: ../images/DO-UNET.png  used on input line 115.
+(pdftex.def)             Requested size: 252.93513pt x 115.63403pt.
+<../images/segnet.png, id=13, 735.74875pt x 360.34625pt>
+File: ../images/segnet.png Graphic file (type png)
+<use ../images/segnet.png>
+Package pdftex.def Info: ../images/segnet.png  used on input line 130.
+(pdftex.def)             Requested size: 231.25688pt x 93.94623pt.
+ [2 </root/Work/ICAISC23/src/../images/DO-UNET.png> </root/Work/ICAISC23/src/..
+/images/segnet.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<../images/ALLIDB1.jpg, id=19, 385.44pt x 256.7994pt>
+File: ../images/ALLIDB1.jpg Graphic file (type jpg)
+<use ../images/ALLIDB1.jpg>
+Package pdftex.def Info: ../images/ALLIDB1.jpg  used on input line 166.
+(pdftex.def)             Requested size: 252.94437pt x 130.0843pt.
+
+Overfull \hbox (0.94437pt too wide) in paragraph at lines 166--167
+ [][] 
+ []
+
+[3 </root/Work/ICAISC23/src/../images/ALLIDB1.jpg>]
+(/root/Work/ICAISC23/src/../tables/table5.tex) [4]
+Underfull \hbox (badness 1406) in paragraph at lines 286--290
+ \OT1/ptm/m/it/10 3) Platelets: [][]   \OT1/ptm/m/n/10 The platelets seg-men-ta
+-tion re-sult we
+ []
+
+(/root/Work/ICAISC23/src/../tables/comparisonTable.tex)
+<../images/originalCHT.jpg, id=29, 1230.5975pt x 654.445pt>
+File: ../images/originalCHT.jpg Graphic file (type jpg)
+<use ../images/originalCHT.jpg>
+Package pdftex.def Info: ../images/originalCHT.jpg  used on input line 299.
+(pdftex.def)             Requested size: 142.25745pt x 71.13037pt.
+<../images/rbc.png, id=30, 336.50719pt x 213.79875pt>
+File: ../images/rbc.png Graphic file (type png)
+<use ../images/rbc.png>
+Package pdftex.def Info: ../images/rbc.png  used on input line 307.
+(pdftex.def)             Requested size: 252.9497pt x 144.53954pt.
+
+Overfull \hbox (0.9497pt too wide) in paragraph at lines 307--308
+ [][] 
+ []
+
+<../images/wbc.png, id=31, 335.75438pt x 132.495pt>
+File: ../images/wbc.png Graphic file (type png)
+<use ../images/wbc.png>
+Package pdftex.def Info: ../images/wbc.png  used on input line 315.
+(pdftex.def)             Requested size: 252.94739pt x 72.26999pt.
+
+Overfull \hbox (0.94739pt too wide) in paragraph at lines 315--316
+ [][] 
+ []
+
+<../images/plt.png, id=32, 340.27126pt x 129.48375pt>
+File: ../images/plt.png Graphic file (type png)
+<use ../images/plt.png>
+Package pdftex.def Info: ../images/plt.png  used on input line 323.
+(pdftex.def)             Requested size: 252.94423pt x 72.2733pt.
+
+Overfull \hbox (0.94423pt too wide) in paragraph at lines 323--324
+ [][] 
+ []
+
+[5 </root/Work/ICAISC23/src/../images/originalCHT.jpg> </root/Work/ICAISC23/src
+/../images/rbc.png>]
+<../images/result.png, id=36, 318.43968pt x 344.78813pt>
+File: ../images/result.png Graphic file (type png)
+<use ../images/result.png>
+Package pdftex.def Info: ../images/result.png  used on input line 341.
+(pdftex.def)             Requested size: 252.94455pt x 238.49329pt.
+
+Overfull \hbox (0.94455pt too wide) in paragraph at lines 341--342
+ [][] 
+ []
+
+(/root/Work/ICAISC23/src/main.bbl [6 </root/Work/ICAISC23/src/../images/wbc.png
+> </root/Work/ICAISC23/src/../images/plt.png> </root/Work/ICAISC23/src/../image
+s/result.png>])
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[7
+
+] (/root/Work/ICAISC23/src/main.aux) ) 
 Here is how much of TeX's memory you used:
- 6081 strings out of 478238
- 100002 string characters out of 5850455
- 391747 words of memory out of 5000000
- 24280 multiletter control sequences out of 15000+600000
- 494583 words of font info for 84 fonts, out of 8000000 for 9000
+ 6218 strings out of 478238
+ 102727 string characters out of 5850455
+ 420747 words of memory out of 5000000
+ 24372 multiletter control sequences out of 15000+600000
+ 512291 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,11n,77p,303b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 67i,17n,77p,797b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/ba
+se/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utm
+b8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/ur
+w/times/utmri8a.pfb>
+Output written on /root/Work/ICAISC23/src/main.pdf (7 pages, 1036875 bytes).
+PDF statistics:
+ 81 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
